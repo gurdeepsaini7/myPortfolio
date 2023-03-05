@@ -6,7 +6,6 @@ const navbar_btn = document.querySelector('.navbar-btn');
 
 navbar_btn.addEventListener('click', () => {
     navbar_header.classList.toggle('active');
-    alert('hello');
 });
 
 
